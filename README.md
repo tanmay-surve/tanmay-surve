@@ -1,10 +1,25 @@
-<h1 align="center">Hi 👋, I'm Tanmay Surve</h1>
-- 📫 How to reach me **survetanmay710@gmail.com**
+# Welcome to My GitHub Profile! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanmay_surve_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmay_surve_" height="30" width="40" /></a>
-</p>
+Hi, I'm Tanmay Sandesh Surve! I'm a passionate Software Developer with a focus on backend development and full-stack applications. I love building innovative solutions and contributing to open-source projects. This is my space to showcase my work, share knowledge, and collaborate with others.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🔭 About Me
+- 🌟 I specialize in Java, Spring Boot, RESTful APIs, and databases like MySQL and Elasticsearch.
+- 🚀 Currently exploring advanced topics in cloud computing and DevOps.
+- 💬 Always happy to connect about backend development, web technologies, and software engineering.
+- 📫 Reach me at survetanmay710@gmail.com
+
+## 🛠️ My Tech Stack
+- **Languages**: Java, Python, JavaScript
+- **Frameworks & Tools**: Spring Boot, Flask
+- **DevOps & Cloud**: Docker, Kubernetes, Oracle Cloud (OCI), Git, Linux
+- **Databases**: MySQL, MongoDB, Elasticsearch
+
+## 🌟 Featured Projects
+- **[DINERATE](https://github.com/Tanmay-Surve/DINERATE)**: A full-stack restaurant review web app built with Java, Spring Boot, Elasticsearch, Keycloak, Spring Security, Docker, and REST APIs. It allows users to discover, rate, and review restaurants with secure authentication and efficient search features.
+- **[GHIBLIFY](https://github.com/Tanmay-Surve/GHIBLIFY)**: A full-stack art generator that transforms photos and text prompts into Ghibli-style artwork using Java, Spring Boot, REST APIs, Stability AI, and React. Features secure uploads and AI-powered image generation.
+- **[SMARTCROP](https://github.com/Tanmay-Surve/SMARTCROP)**: A web-based crop prediction system built with Python, Flask, Pandas, NumPy, MySQL, and HTML/CSS/JS. Provides farmers with data-driven insights and recommendations.
+
+
+## 🤝 Let's Connect!
+
+Thanks for visiting my profile! Feel free to explore my repositories, star ⭐ the ones you like, or drop me a message to collaborate on something exciting! 🚀
