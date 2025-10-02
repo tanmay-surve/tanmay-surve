@@ -1,25 +1,47 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hi, I'm Tanmay Sandesh Surve  
 
-Hi, I'm Tanmay Sandesh Surve! I'm a passionate Software Developer with a focus on backend development and full-stack applications. I love building innovative solutions and contributing to open-source projects. This is my space to showcase my work, share knowledge, and collaborate with others.
+🚀 Passionate **Software Developer** with a focus on **backend engineering** and **full-stack applications**.  
+I love solving problems, building scalable systems, and exploring new technologies in cloud and DevOps.  
 
-## 🔭 About Me
-- 🌟 I specialize in Java, Spring Boot, RESTful APIs, and databases like MySQL and Elasticsearch.
-- 🚀 Currently exploring advanced topics in cloud computing and DevOps.
-- 💬 Always happy to connect about backend development, web technologies, and software engineering.
-- 📫 Reach me at survetanmay710@gmail.com
+---
 
-## 🛠️ My Tech Stack
-- **Languages**: Java, Python, JavaScript
-- **Frameworks & Tools**: Spring Boot, Flask
-- **DevOps & Cloud**: Docker, Kubernetes, Oracle Cloud (OCI), Git, Linux
-- **Databases**: MySQL, MongoDB, Elasticsearch
+## 🔭 About Me  
+- 💻 Strong in **Java, Spring Boot, REST APIs, MySQL, and Elasticsearch**.  
+- 🌱 Currently exploring **Cloud Computing** and **DevOps tools** like Docker & Kubernetes.  
+- 🤝 Open to collaboration on **backend projects, open-source contributions, and full-stack apps**.  
+- 📫 Reach me at: **survetanmay710@gmail.com**  
 
-## 🌟 Featured Projects
-- **[DINERATE](https://github.com/Tanmay-Surve/DINERATE)**: A full-stack restaurant review web app built with Java, Spring Boot, Elasticsearch, Keycloak, Spring Security, Docker, and REST APIs. It allows users to discover, rate, and review restaurants with secure authentication and efficient search features.
-- **[GHIBLIFY](https://github.com/Tanmay-Surve/GHIBLIFY)**: A full-stack art generator that transforms photos and text prompts into Ghibli-style artwork using Java, Spring Boot, REST APIs, Stability AI, and React. Features secure uploads and AI-powered image generation.
-- **[SMARTCROP](https://github.com/Tanmay-Surve/SMARTCROP)**: A web-based crop prediction system built with Python, Flask, Pandas, NumPy, MySQL, and HTML/CSS/JS. Provides farmers with data-driven insights and recommendations.
+---
 
+## 🛠 Tech Stack  
+**Languages:** Java, Python
+**Frameworks:** Spring Boot, Flask  
+**Databases & Search:** MySQL, MongoDB, Elasticsearch  
+**DevOps & Cloud:** Docker, Kubernetes, Oracle Cloud (OCI), Git, Linux  
 
-## 🤝 Let's Connect!
+---
 
-Thanks for visiting my profile! Feel free to explore my repositories, star ⭐ the ones you like, or drop me a message to collaborate on something exciting! 🚀
+## 🌟 Featured Projects  
+- **[DINERATE](https://github.com/Tanmay-Surve/DINERATE)**  
+  Full-stack restaurant review app using **Spring Boot, Elasticsearch, Keycloak, and Docker**.  
+  ✨ Features secure authentication and fast search by restaurant, cuisine, and ratings.  
+
+- **[GHIBLIFY](https://github.com/Tanmay-Surve/GHIBLIFY)**  
+  AI-powered art generator using **Spring Boot, Stability AI, and React**.  
+  🎨 Transforms photos & text prompts into Ghibli-style artwork.  
+
+- **[SMARTCROP](https://github.com/Tanmay-Surve/SMARTCROP)**  
+  Web-based crop prediction system using **Flask, Pandas, NumPy, and MySQL**.  
+  🌱 Helps farmers with **data-driven insights and recommendations**.  
+
+---
+
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Surve&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let’s Connect  
+📧 **Email:** survetanmay710@gmail.com   
+
+⭐ Thanks for visiting my profile! Feel free to explore my repos and connect if you’d like to collaborate.  
