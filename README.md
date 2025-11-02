@@ -12,8 +12,6 @@
 
 ### 🚀 About Me
 
-<img width="50%" align="right" alt="Tanmay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Surve&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
 -   💻 I'm a dedicated **Backend Developer** specializing in building scalable applications.
 -   🌱 Currently deepening my knowledge in **Kubernetes** and **Cloud-native patterns** on AWS.
 -   👯 I’m actively looking to collaborate on **Spring Boot**, **Java**, or **Cloud-native** projects 🤝.
